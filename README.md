@@ -33,3 +33,8 @@ developing my skills in Cloud Security Engineering.
 ## Portfolio Status
 In development — more projects and
 documentation coming soon.
+
+## Git Practice
+
+This README was updated locally on my MacBook
+using Git.

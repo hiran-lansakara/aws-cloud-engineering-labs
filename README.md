@@ -38,3 +38,8 @@ documentation coming soon.
 
 This README was updated locally on my MacBook
 using Git.
+
+## Git Pull Practice
+
+This section was added on GitHub and
+downloaded to my MacBook using git pull.
